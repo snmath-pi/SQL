@@ -31,11 +31,11 @@ Welcome to **SQL Maang**, a **curated collection of the latest SQL interview que
 
 1️⃣ Clone this repository:  
 ```bash
-git clone https://github.com/yourusername/sql-maang.git
+git clone https://github.com/snmath-pi/SQL.git
 ```
 2️⃣ Navigate to the directory:  
 ```bash
-cd sql-maang
+cd sql maang
 ```
 3️⃣ Explore SQL problems and solutions!  
 
